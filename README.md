@@ -24,7 +24,7 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,js,java,& fa-r-studio)](https://github.com/Pranavkumar2025)
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,js,java,r)](https://github.com/Pranavkumar2025)
 
 <!-- ### Web Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongo)]() -->
