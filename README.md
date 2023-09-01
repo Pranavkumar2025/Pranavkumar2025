@@ -17,8 +17,8 @@
 ## 🚀 Connect with me
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Pranavkumar2025)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranav-kumar-a01887257/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@pranav_kumar019)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/pranav731)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Pranav_kumar019)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pranav_kumar519/)
 
 ## 👨‍💻Coding Profile
 
