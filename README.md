@@ -65,11 +65,3 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p>
 
-### 🐍 Watch Snake eating my contribution
-
-![snake svg](https://github.com/Pranavkumar2025/Pranavkumar2025/blob/output/github-contribution-grid-snake.svg)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranavkumar2025&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-[![@Pranavkumar2025's Holopin board](https://holopin.me/Pranavkumar2025)](https://holopin.io/@Pranavkumar2025)
