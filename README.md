@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranavkumar2025/Pranavkumar2025/blob/main/234284-artificial-intelligence.webp)
+![logo](6438c20da3097de1599b4d7c_6438b1aeafdca51bbebf72cb_generative%20ai.jpeg)
 # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)👋
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
