@@ -8,7 +8,7 @@
 <h2 align="center">
 <img src="https://komarev.com/ghpvc/?username=pranavkumar2025&label=Profile%20views&color=0e75b6&style=flat" align="center" />
 </h2>
-<img align="right" height="250" width="400"  alt="GIF" src="https://github.com/Pranavkumar2025/Pranavkumar2025/blob/main/OyGx.gif"/>
+<img align="right" height="250" width="400"  alt="GIF" src="https://nypost.com/wp-content/uploads/sites/2/2023/04/Quantum-AI-Fast.gif"/>
 
 ## About me
 ###🎯 Coming Soon.....
@@ -65,3 +65,7 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p>
 
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pranavkumar2025&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+[![@Pranavkumar2025's Holopin board](https://holopin.me/Pranavkumar2025)](https://holopin.io/@Pranavkumar2025)-->
