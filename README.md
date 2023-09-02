@@ -1,4 +1,4 @@
-![logo](6438c20da3097de1599b4d7c_6438b1aeafdca51bbebf72cb_generative%20ai.jpeg)
+![logo](https://assets-global.website-files.com/63da3362f67ed649a19489ea/64a52d442d6459f3acb7976b_6438b1aeafdca51bbebf72cb_generative%2520ai.jpeg)
 # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)👋
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
