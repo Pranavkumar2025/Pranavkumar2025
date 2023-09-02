@@ -8,7 +8,7 @@
 <h2 align="center">
 <img src="https://komarev.com/ghpvc/?username=pranavkumar2025&label=Profile%20views&color=0e75b6&style=flat" align="center" />
 </h2>
-<img align="right" height="250" width="400" alt="GIF" src="https://nypost.com/wp-content/uploads/sites/2/2023/04/Quantum-AI-Fast.gif"/>
+<img align="center" height="250" width="400" alt="GIF" src="https://nypost.com/wp-content/uploads/sites/2/2023/04/Quantum-AI-Fast.gif](https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif"/>
 
 ## About me
 ###🎯 Coming Soon.....
