@@ -1,4 +1,4 @@
-![logo](https://assets-global.website-files.com/63da3362f67ed649a19489ea/64a52d442d6459f3acb7976b_6438b1aeafdca51bbebf72cb_generative%2520ai.jpeg)
+![logo](https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2021/05/future-artificial-intelligence-arm-robot.jpg)
 # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)👋
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)
