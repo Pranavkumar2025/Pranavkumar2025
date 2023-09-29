@@ -50,7 +50,7 @@
 ## 📊Github Stats
 
  <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"" alt="pranavkumar2025" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=10&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /></p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025p&show_icons=true&locale=en&theme=radical"/>
