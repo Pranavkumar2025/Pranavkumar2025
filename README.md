@@ -53,7 +53,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=10&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /></p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025p&show_icons=true&locale=en&theme=radical"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025p&show_icons=true&locale=en&theme=radical"/>
 </p>
 
 <p>
