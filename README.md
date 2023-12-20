@@ -37,13 +37,13 @@
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongo)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://github.com/Pranavkumar2025)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma)](https://github.com/Pranavkumar2025)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo)](https://github.com/Pranavkumar2025)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://github.com/Pranavkumar2025)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://github.com/Pranavkumar2025)
 
 <hr>
 
