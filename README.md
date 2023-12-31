@@ -47,13 +47,51 @@
 
 <hr>
 
-## 📊Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=10&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /></p>
+<h2 align="center"> My GitHub Streak:</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p><br/>
+<!-- //algolia  -->
+<h2 align="center"> My GitHub stats:</h2>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" />
+<img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&show_icons=true&locale=en&layout=compact&theme=radical" alt="pranavkumar2025" /></p>
+<br/>
+<h2 align="center"> My Contribution graph:</h2>
+<p align="center">
+  <a href="https://github.com/Pranavkumar2025">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranavkumar2025&theme=radical" alt="Pranav's GitHub Contribution"/>
+  </a>
+</p>
+
+<br/> <br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavkumar2025&column=6&margin-w=10&margin-h=10&theme=radical" alt="pranavkumar2025" /></a> </p>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=See%20you%20next%20time🤗.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
+</p>
+<hr/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--## 📊Github Stats-->
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=10&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p>-->
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=10&show_icons=true&locale=en&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="pranavkumar2025" /></p>
@@ -62,7 +100,4 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p> -->
 
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranavkumar2025&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-[![@Pranavkumar2025's Holopin board](https://holopin.me/Pranavkumar2025)](https://holopin.io/@Pranavkumar2025)-->
