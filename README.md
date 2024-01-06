@@ -68,7 +68,7 @@
 </p>
 
 <br/> <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavkumar2025&column=6&margin-w=10&margin-h=10&theme=radical" alt="pranavkumar2025" /></a> </p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=pranavkumar2025&column=6&margin-w=10&margin-h=10&theme=radical" alt="pranavkumar2025" /></a> </p>
 <br/>
 
 <p align="center">
