@@ -2,7 +2,7 @@
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)👋-->
 <h1 align="center">Hi 🙋‍♂️, I'm Pranav Kumar</h1>
 
-<!--## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)-->
+<!--## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)--> 
 <p align="center"> 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full- stack%20web%20developer,;%20Enthusiast%20In%20Machine%20Learning,;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24"></a>
 </p>
