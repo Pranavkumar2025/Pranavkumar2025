@@ -1,9 +1,10 @@
 <!--![logo](https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg)  -->
 <p align="center"> 
   <a href="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg">
-    <img src="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg" width="800" height="400">
+    <img src="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg" width="800" height="400" style="border-radius: 10px;">
   </a>
 </p>
+
 
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>      
