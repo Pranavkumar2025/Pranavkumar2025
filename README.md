@@ -1,9 +1,10 @@
 <!--![logo](https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg)  -->
 <p align="center"> 
-  <a href="(https://img.freepik.com/premium-photo/global-future-ai-artificial-intelligence-3d-robot-abstract-digital-technology-background-digital-transformation-industry-40-computeraided-manufacturing_733288-138.jpg)">
-    <img src="(https://img.freepik.com/premium-photo/global-future-ai-artificial-intelligence-3d-robot-abstract-digital-technology-background-digital-transformation-industry-40-computeraided-manufacturing_733288-138.jpg)" width="800" height="400" style="border-radius: 30px;">
+  <a href="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg">
+    <img src="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg" width="800" height="400" style="border-radius: 10px;">
   </a>
 </p>
+
 
 
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
