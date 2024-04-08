@@ -1,7 +1,7 @@
 <!--![logo](https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg)  -->
 <p align="center"> 
   <a href="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg">
-    <img src="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg" width="540" height="300">
+    <img src="https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg" width="740" height="300">
   </a>
 </p>
 
