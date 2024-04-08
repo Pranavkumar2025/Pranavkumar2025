@@ -1,4 +1,4 @@
-<!-- ![logo](https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2021/05/future-artificial-intelligence-arm-robot.jpg) -->
+![logo]([https://y6b8k9e7.stackpathcdn.com/wp-content/uploads/2021/05/future-artificial-intelligence-arm-robot.jpg](https://assets.thehansindia.com/h-upload/2019/11/10/234284-artificial-intelligence.webp)) 
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>      
  
