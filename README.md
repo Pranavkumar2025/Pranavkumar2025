@@ -1,7 +1,7 @@
 <!--![logo](https://www.livehome3d.com/assets/img/articles/ai-in-interior-design/robot-artificial-intelligence.jpg)  -->
 <p align="center"> 
   <a href="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg">
-    <img src="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg" width="800" height="400" style="border-radius: 30px;">
+    <img src="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg" width="800" height="400" style="border-radius: 50%;">
   </a>
 </p>
 
