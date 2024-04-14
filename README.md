@@ -59,8 +59,6 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://github.com/Pranavkumar2025)
 
 <hr>
-
-
 <h2 align="center"> My GitHub Streak:</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p><br/>
 <!-- //algolia  -->
