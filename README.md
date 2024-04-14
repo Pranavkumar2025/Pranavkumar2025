@@ -28,7 +28,6 @@
 ###🎯 Coming Soon.....
 <br>
 
-
 ## 🚀 Connect with me
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/Pranavkumar2025)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranav-kumar-27723a295/)
