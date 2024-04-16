@@ -44,13 +44,13 @@
 ## 🛠️Skills
 ### I Code in
 
-[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,js,java,r)](https://github.com/Pranavkumar2025)
+[![I Code in](https://skillicons.dev/icons?i=c,cpp,python,js,java)](https://github.com/Pranavkumar2025)
 
 <!-- ### Web Development
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongo)]() -->
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma,tailwind)](https://github.com/Pranavkumar2025)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,figma)](https://github.com/Pranavkumar2025)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql)](https://github.com/Pranavkumar2025)
