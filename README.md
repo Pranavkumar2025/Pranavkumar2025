@@ -63,8 +63,7 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavkumar2025&theme=radical" alt="pranavkumar2025" /></p><br/>
 <!-- //algolia  -->
 <h2 align="center"> My GitHub stats:</h2>
-<!-- <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=10&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavkumar2025&show_icons=true&locale=en&theme=radical" alt="pranavkumar2025" /> 
 <img align="center" margin="0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavkumar2025&langs_count=12&show_icons=true&locale=en&layout=compact&theme=radical" alt="pranavkumar2025" /></p>
 
 
