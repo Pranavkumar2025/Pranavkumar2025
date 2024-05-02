@@ -36,7 +36,6 @@
 <a href="https://www.codingninjas.com/studio/profile/8fcc2657-f722-4faa-87bd-82d2f23b7613" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="gfg" height="45" width="45" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranavkumar2025" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F5.svg?alt=media&token=dcf0a6d1-d72b-4716-b119-5db5e169480c" alt="gfg" height="45" width="45" /></a>
 
-
 ## 🛠️Skills
 ### I Code in
 
