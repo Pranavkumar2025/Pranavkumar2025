@@ -50,6 +50,10 @@
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql)](https://github.com/Pranavkumar2025)
 
+### ML Stacks
+[![Backend](https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,sckit-learn,keras)](https://github.com/Pranavkumar2025)
+
+
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://github.com/Pranavkumar2025)
 
