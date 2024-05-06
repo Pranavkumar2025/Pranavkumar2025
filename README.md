@@ -53,7 +53,7 @@
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E34F26?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E34F26?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-339933.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### Tools
