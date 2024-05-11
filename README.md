@@ -4,7 +4,6 @@
     <img src="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg" width="800" height="400" style="border-radius: 30px;">
   </a>
 </p>
-
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>        
  
@@ -15,7 +14,6 @@
   </a>
 </p>
 <br>
-
 <h2 align="center">
 <img align="right" alt = "coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <!--<img src="https://komarev.com/ghpvc/?username=pranavkumar2025&label=Profile%20views&color=0e75b6&style=flat" align="center" /> -->
