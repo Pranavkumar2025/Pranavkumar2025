@@ -37,7 +37,6 @@
 
 ## 🛠️Skills
 ### I Code in
-
 [![I Code in](https://skillicons.dev/icons?i=c,cpp,python,js,java)](https://github.com/Pranavkumar2025)
 
 <!-- ### Web Development
