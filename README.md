@@ -6,7 +6,7 @@
 
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>        
- 
+
 <!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)-->  
 <p align="center"> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
