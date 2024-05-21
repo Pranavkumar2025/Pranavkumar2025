@@ -47,7 +47,7 @@
 ### Frontend
 [![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,figma)](https://github.com/Pranavkumar2025)
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase)](https://github.com/Pranavkumar2025)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,php,mysql,firebase)](https://github.com/Pranavkumar2025)
 
 ## 💫 Data Analysis and Machine Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
