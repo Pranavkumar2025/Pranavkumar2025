@@ -45,7 +45,7 @@
 
 ## 💫 Web Devlopment Skills
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,figma)](https://github.com/Pranavkumar2025)
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,redux,figma)](https://github.com/Pranavkumar2025)
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql)](https://github.com/Pranavkumar2025)
 
