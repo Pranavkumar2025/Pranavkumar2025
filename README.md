@@ -14,6 +14,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Full-stack%20web%20developer%2C;%20Enthusiast%20In%20Machine%20Learning%2C;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=D93A7C&vCenter=true&size=24">
   </a>
 </p>
+
 <br>
 <h2 align="center">
 <img align="right" alt = "coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
