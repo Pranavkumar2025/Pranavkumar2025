@@ -23,7 +23,7 @@
 </h2>
 
 ## About me
-###🎯 Coming Soon.....
+### ✨ Pursuing B.tech in Artificial Intelligence and Machine Learning || MERN Stack Developer || Codes in ( C/Java/JavaScript ) || DSA || Machine Learning (Python)
 <br>
 
 ## 🚀 Connect with me
