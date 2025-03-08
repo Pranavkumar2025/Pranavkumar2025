@@ -1,10 +1,8 @@
-
 <p align="center"> 
   <a href="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg">
     <img src="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg" width="800" height="400" style="border-radius: 30px;">
   </a>
 </p>
-
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>        
 
