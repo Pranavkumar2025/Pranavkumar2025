@@ -24,10 +24,11 @@
 ### ✨ Pursuing B.tech in Artificial Intelligence and Machine Learning || MERN Stack Developer || Codes in ( C/Java/JavaScript ) || DSA || Machine Learning (Python)
 <br>
 ## 🚀 Connect with me
-[![Github](https://skillicons.dev/icons?i=github)](https://github.com/Pranavkumar2025)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pranav-kumar-27723a295/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Pranav_kumar019)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/pranav_kumar519/)
+[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Pranavkumar2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-kumar-27723a295/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Pranav_kumar019)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/pranav_kumar519/)
+
 
 ## 👨‍💻Coding Profile
 <a href="https://leetcode.com/Pranav_Kumar2025/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/storage-2a9f1.appspot.com/o/github-readme-img%2F6.svg?alt=media&token=2e74ad55-57f2-40aa-adff-c46ea7a8b4c5" alt="leetcode" height="45" width="45" /></a>
