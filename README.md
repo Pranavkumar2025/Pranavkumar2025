@@ -23,11 +23,14 @@
 ## About me
 ### ✨ Pursuing B.tech in Artificial Intelligence and Machine Learning || MERN Stack Developer || Codes in ( C/Java/JavaScript ) || DSA || Machine Learning (Python)
 <br>
+
+
 ## 🚀 Connect with me
-[![Github](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Pranavkumar2025)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Pranavkumar2025)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-kumar-27723a295/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/Pranav_kumar019)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/pranav_kumar519/)
+
 
 
 ## 👨‍💻Coding Profile
