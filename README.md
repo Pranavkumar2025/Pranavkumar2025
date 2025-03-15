@@ -24,7 +24,6 @@
 ### ✨ Pursuing B.tech in Artificial Intelligence and Machine Learning || MERN Stack Developer || Codes in ( C/Java/JavaScript ) || DSA || Machine Learning (Python)
 <br>
 
-
 ## 🚀 Connect with me  
 <p align="left">
   <a href="https://github.com/Pranavkumar2025"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
