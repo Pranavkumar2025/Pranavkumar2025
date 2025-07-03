@@ -17,7 +17,6 @@
 <!--<img src="https://komarev.com/ghpvc/?username=pranavkumar2025&label=Profile%20views&color=0e75b6&style=flat" align="center" /> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranavkumar2025&label=Profile%20views&color=0e75b6&style=flat" alt="Pranavkumar2025" /> </p>
 </h2>
-
 ## About me
 ### ✨ Pursuing B.tech in Artificial Intelligence and Machine Learning || MERN Stack Developer || Codes in ( C/Java/JavaScript ) || DSA || Machine Learning (Python)
 <br>
