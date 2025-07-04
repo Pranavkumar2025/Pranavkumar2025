@@ -3,6 +3,7 @@
     <img src="https://images.squarespace-cdn.com/content/v1/5eac45f88da144413f9b5763/c0036b91-e7f9-438c-825c-8976a7434750/dennis-lindsay-nephilim-end-times-strategy-artificial-intelligences-role-in-the-last-days.jpg" width="800" height="400" style="border-radius: 30px;">
   </a>
 </p>
+
 <!-- # I'm [Pranav Kumar](https://github.com/Pranavkumar2025)--> 
 <h1 align="center">Hi 👋, I'm Pranav Kumar</h1>        
 <!-- ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Full+Stack+Web+Developer;)](https://git.io/typing-svg)-->  
