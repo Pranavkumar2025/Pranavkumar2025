@@ -23,8 +23,15 @@
 
 ## About Me
 
-### ✨ Pursuing B.Tech in Artificial Intelligence and Machine Learning  
-MERN Stack Developer | C / Java / JavaScript | DSA | Machine Learning (Python)
+✨ **Completed B.Tech in Artificial Intelligence and Machine Learning (2025)**  
+💻 Full-Stack Developer (MERN) | Passionate about Building Scalable Web Applications  
+👨‍💻 Proficient in: C, Java, JavaScript, Python  
+📈 Strong foundation in Data Structures & Algorithms  
+🧠 Experienced in Machine Learning & Deep Learning (TensorFlow, Keras, Scikit-Learn)  
+🌐 Familiar with REST APIs, Git/GitHub, and Deployment (Vercel, Firebase, Netlify, AWS)  
+🎯 Focused on building impactful AI-integrated web projects  
+🚀 Always eager to learn new technologies and contribute to innovative teams
+
 
 <br>
 
